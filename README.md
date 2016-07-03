@@ -1,3 +1,6 @@
+NOTE: This is not a full version of highlighting-kate, but rather has
+been modified by me for my own purposes. You probably don't want it.
+
 highlighting-kate
 -----------------
 
