@@ -6,3 +6,5 @@ Text/Highlighting/Kate/Syntax/
 dist/
 .cabal-sandbox/
 cabal.sandbox.config
+highlighting-kate.cabal.orig
+.stack-work/

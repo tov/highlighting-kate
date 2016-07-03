@@ -68,7 +68,10 @@
       <item> match </item>
       <item> if </item>
       <item> when </item>
+      <item> while </item>
       <item> unless </item>
+      <item> and </item>
+      <item> or </item>
       <item> until </item>
       <item> do-times </item>
       <item> delay </item>
@@ -107,7 +110,7 @@
         <RegExpr attribute="Region Marker" context="#stay" String="[][(){}]"/>
         <keyword attribute="Keyword" context="#stay" String="keywords"/>
         <RegExpr attribute="Hash Lang" context="#stay"
-            String="#lang [a-zA-Z0-9/-]*" />
+            String="#lang\s+[a-zA-Z0-9/-]+" />
         <DetectChar attribute="String" context="String" char="&quot;"/>
         <RegExpr attribute="String" context="#stay"
             String="'[a-zA-Z0-9+*!&lt;&gt;=/:.\\-]+"/>
