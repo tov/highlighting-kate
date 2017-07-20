@@ -119,6 +119,7 @@ Library
                      Text.Highlighting.Kate.Syntax.Cpp
                      Text.Highlighting.Kate.Syntax.Doxygen
                      Text.Highlighting.Kate.Syntax.Dssl
+                     Text.Highlighting.Kate.Syntax.Dssl2
                      Text.Highlighting.Kate.Syntax.Gcc
                      Text.Highlighting.Kate.Syntax.Isocpp
                      Text.Highlighting.Kate.Syntax.Modelines
